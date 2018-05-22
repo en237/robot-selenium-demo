@@ -7,7 +7,7 @@ Documentation  Demonstrate SeleniumLibrary by googling.
 
 *** Variables ***
 ${HOMEPAGE}  http://www.google.be
-${BROWSER}  chrome
+${BROWSER}  gc
 
 *** Test Cases ***
 Google searches and verifying results
